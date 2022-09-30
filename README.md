@@ -6,7 +6,7 @@
 * ## 課程筆記區  
 * ## 作業連結區
     ***Week2***
-    [練習](https://github.com/allen20021005/PL/blob/main/Week2-practice.ipynb)
+    [練習](https://github.com/allen20021005/PL/blob/main/Week2-practice.ipynb)[b:]
     ***Week3***
     [練習](https://github.com/allen20021005/PL/blob/main/Week3_practice.ipynb)
 * ## 專題連結區
