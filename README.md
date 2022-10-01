@@ -4,7 +4,7 @@
 * 系級：科技系114級  
 
 * ## 課程筆記區  
-    ***Week2***
+    ***Week2***  
     [練習](https://github.com/allen20021005/PL/blob/main/Week2-practice.ipynb)  
     ***Week3***
     [練習](https://github.com/allen20021005/PL/blob/main/Week3_practice.ipynb)
